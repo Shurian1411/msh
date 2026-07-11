@@ -17,8 +17,6 @@ To install it as a standalone binary:
 cargo build --release
 cargo install --path .
 ```
-```
-```
 
 ## Features
 
@@ -30,8 +28,6 @@ echo  ecpg
 
 $ gre<TAB>
 grep  gresource
-```
-```
 ```
 
 ### Builtins
