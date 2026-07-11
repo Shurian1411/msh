@@ -1,0 +1,13 @@
+[package]
+name = "msh"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.95"
+
+[dependencies]
+anyhow = "1"
+bytes = "1"
+rustyline = "18"
+rustyline-derive = "0.12"
+strum = { version = "0.28", features = ["derive"] }
+thiserror = "2"
